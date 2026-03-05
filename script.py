@@ -8,3 +8,5 @@ for index, task in enumerate(tasks, start=1):
 new_task = "Learn Branching"
 tasks.append(new_task)
 print(f"Added: {new_task}")
+#This is the line after deletion
+# ------Lab Done------
