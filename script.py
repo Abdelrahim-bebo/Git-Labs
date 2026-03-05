@@ -1,4 +1,3 @@
-# Simple Task Tracker
 tasks = ["Setup Git", "Create SSH Key", "Write Script"]
 
 print("--- My To-Do List ---")
